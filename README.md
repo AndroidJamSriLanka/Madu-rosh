@@ -20,7 +20,7 @@ http://synd.cricbuzz.com
 http://fastestlivescores.com/football-api-signup/
 http://static.cricinfo.com/rss/livescores.xml
 http://api.football-data.org/register
-i try to implement with possibilities i can get and if not try to exploi
+i try to implement with possibilities i can get 
 
 ##What have you currently implemented
 
