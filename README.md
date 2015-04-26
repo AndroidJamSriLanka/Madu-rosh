@@ -22,11 +22,14 @@ http://static.cricinfo.com/rss/livescores.xml
 http://api.football-data.org/register
 i try to implement with possibilities i can get 
 
-##What have you currently implemented
+##What have you currently implemented 
 
 
-UI design is partially done!
+UI design is partially done!i will upload my actual GUIs ASAP! and currently expected screens are like this
 
-Screenshots
+![Alt text](https://github.com/AndroidJamSriLanka/Madu-rosh/blob/master/UI%20Designs/Untitled-1.jpg "current expected Screens")
+
+
+
 
 
